@@ -1,49 +1,49 @@
-Data Structures Overview
-This repository provides a clear introduction to essential data structures and their implementations.
+### Data Structures Overview
+## This repository provides a clear introduction to essential data structures and their implementations.
 
 Topics Covered:
-What are Data Structures?
+## 1.What are Data Structures?
 
 Overview of data structures and their importance in programming.
-Abstract Data Types
+## 2.Abstract Data Types
 
 Explanation of abstract data types and how they differ from concrete data structures.
-Arrays
+## 3.Arrays
 
 Introduction to arrays, their properties, and common use cases.
-Time Complexity
+## 4.Time Complexity
 
 A brief look at time complexity and its importance in assessing algorithm efficiency.
-Linear Search and Binary Search Implementations
+## 5.Linear Search and Binary Search Implementations
 
 Code examples demonstrating linear and binary search algorithms.
-Sorting Algorithms:
+## 6.Sorting Algorithms:
 
-Bubble Sort Implementation: Code for the bubble sort algorithm for sorting data.
-Selection Sort Implementation: Code for the selection sort algorithm.
-Insertion Sort Implementation: Useful for small or partially sorted datasets.
-Quick Sort Implementation: A fast sorting method based on divide-and-conquer.
-Merge Sort Implementation: Another divide-and-conquer sorting algorithm.
-Divide and Conquer
+i.Bubble Sort Implementation: Code for the bubble sort algorithm for sorting data.
+ii.Selection Sort Implementation: Code for the selection sort algorithm.
+iii.Insertion Sort Implementation: Useful for small or partially sorted datasets.
+iv.Quick Sort Implementation: A fast sorting method based on divide-and-conquer.
+v.Merge Sort Implementation: Another divide-and-conquer sorting algorithm.
+vi.Divide and Conquer
 
 Overview of the divide-and-conquer strategy and its application in algorithms.
-Tree Data Structures
+## 7.Tree Data Structures
 
 Introduction to tree structures and their hierarchical nature.
-Binary Search Tree Implementation
+## 8.Binary Search Tree Implementation
 
 Code for implementing a binary search tree for efficient data retrieval.
-Recursion
+## 9.Recursion
 
 Brief introduction to recursion and its use in problem-solving.
-Linked Lists
+## 10.Linked Lists
 
 Code examples for adding and deleting values in linked lists.
-Stacks
+## 11.Stacks
 
 Implementation of stack operations: Push, Pop, and Peek.
-Queues
-
-Code for queue operations: Enqueue, Dequeue, and a circular queue implementation.
-Contribution:
+## 12.Queues
+  -> Code for queue operations: Enqueue, Dequeue, and a circular queue implementation.
+  
+## Contribution:
 Contributions are welcome. Open an issue or submit a pull request to participate.
