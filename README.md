@@ -20,10 +20,15 @@ Code examples demonstrating linear and binary search algorithms.
 ## 6.Sorting Algorithms:
 
 i.Bubble Sort Implementation: Code for the bubble sort algorithm for sorting data.
+
 ii.Selection Sort Implementation: Code for the selection sort algorithm.
+
 iii.Insertion Sort Implementation: Useful for small or partially sorted datasets.
+
 iv.Quick Sort Implementation: A fast sorting method based on divide-and-conquer.
+
 v.Merge Sort Implementation: Another divide-and-conquer sorting algorithm.
+
 vi.Divide and Conquer
 
 Overview of the divide-and-conquer strategy and its application in algorithms.
